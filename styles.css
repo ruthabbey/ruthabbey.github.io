@@ -166,6 +166,13 @@ main {
   text-decoration: none;
 }
 
+.social-links svg {
+  display: block;
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
 .social-links a:hover {
   border-color: var(--accent);
 }
