@@ -1,6 +1,6 @@
 # Ruth Abbey Portfolio
 
-Static multi-page portfolio for Ruth Naayi Odankey Abbey.
+Static multi-page portfolio for Ruth Naayi Abbey.
 
 ## Local preview
 
